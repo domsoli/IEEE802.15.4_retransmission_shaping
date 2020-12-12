@@ -1,0 +1,13 @@
+{
+  "sensors": "55ad 560b",
+  "strategies": "rand",
+
+  "avg_number_retries": "3",
+  "max_number_retries": "9",
+  "replications": 1,
+
+  "strategies_path": "simulation_strategies/",
+  "input_path": "data/traces/",
+  "out_name": "results/PE-WASUN/",
+  "log_path": "results/PE-WASUN/"
+}
