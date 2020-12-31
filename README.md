@@ -1,4 +1,4 @@
-# Optimize-LR-WPAN-Retransmissions
+# IEEE 802.15.4g Re-Transmission Shaping
 
 This repository provides the code to replicate the experiments presented in [_Improving Link Reliability of IEEE 802.15.4g SUN with Re-Transmission Shaping_](https://www.researchgate.net/publication/343319676_Improving_Link_Reliability_of_IEEE_802154g_SUN_with_Re-Transmission_Shaping) and to perform different and more complex simulations, exploiting the modulation diversity available in the IEEE 802.15.4g standard.
 
